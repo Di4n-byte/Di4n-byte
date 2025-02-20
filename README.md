@@ -10,7 +10,7 @@ I'm a passionate developer and tech enthusiast who loves exploring all things re
 - **Other Interests**: Machine Learning, Artificial Intelligence, Cybersecurity, Astrophysics, and Quantum Computing.
 
 ### Projects
-- **CircuitNuker**: A Discord bot for server management and automation. [Check it out here](https://github.com/di6n/CircuitNuker).
+- **CircuitNuker**: A Discord bot made for EDUCATIONAL PURPOSE ONLY. [Check it out here](https://github.com/di6n/CircuitNuker).
 - **Other Projects**: Coming soon! Stay tuned for more exciting projects.
 
 ### Why I Code
